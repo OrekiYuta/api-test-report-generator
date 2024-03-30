@@ -1,0 +1,9 @@
+/venv/
+#git rm -r --cached .idea
+/.idea/
+/transit/
+/__pycache__/
+/refer/mpfa-portal-api-tests-20230718/
+
+/output/
+/config/
